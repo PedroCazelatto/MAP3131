@@ -1,0 +1,9 @@
+Versão de compilador: gcc (MinGW.org GCC Build-2) 9.2.0
+
+Ao executar, o programa fará perguntas sobre os parâmetros necessários para o cálculo correto do algoritmo.
+
+Entre colchetes "[]" estão descritos os valores aceitos pelo programa, que não continuará enquanto não receber um dos valores corretos.
+
+Caso mais de um valor correto seja inserido ao mesmo tempo (como "cs" onde aceita-se 'c' ou 's') apenas o primeiro será considerado.
+
+O valor limite de 128 foi utilizado pois em C devemos ter todas as matrizes com tamanhos predefinidos na hora da compilação.

@@ -1,0 +1,15 @@
+Versão de compilador: gcc (MinGW.org GCC Build-2) 9.2.0
+
+Ao executar, o programa fará perguntas sobre os parâmetros necessários para o cálculo correto do algoritmo.
+
+Entre colchetes "[]" estão descritos os valores aceitos pelo programa, que não continuará enquanto não receber um dos valores corretos.
+
+Caso mais de um valor correto seja inserido ao mesmo tempo (como "cs" onde aceita-se 'c' ou 's') apenas o primeiro será considerado.
+
+O valor limite de 256 foi utilizado pois em C devemos ter todas as matrizes com tamanhos predefinidos na hora da compilação.
+
+Inserir o nome do arquivo a ser lido sem aspas e com a extensão.
+Arquivos de entrada foram disponibilizados pelos professores, por isso não enviei.
+
+Os GIFs das treliças foram feitos no GeoGebra (arquivos .ggb) multiplicando os movimentos por 1000 para serem mais visíveis.
+w1 significa a menor frequência e w2 a segunda menor, relativos a treliça proposta no enunciado. O relatório explica melhor sobre as animações.
